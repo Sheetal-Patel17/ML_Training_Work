@@ -1,10 +1,6 @@
 # ML_Training_Work
 Repository for my Machine Learning training, practice work, assignments, experiments, and projects.
 
-# ML_Training_Work
-
-This repository contains my Machine Learning training work, interview preparation materials, assignments, and projects.
-
 ## Repository Structure
 
 ```
